@@ -13,7 +13,9 @@ Install these gems: `gem install terminal-notifier json awesome_print`
 
 It's pretty simple.
 
-Just run `ruby app.rb` once you've installed your gems and it'll run and get new jobs from /r/forhire.
+Create `touch .ids` file for keeping past job IDs.
+
+Run `ruby app.rb forhire` once you've installed your gems and it'll run and get new jobs from /r/forhire.
 
 If you've never run it before, you're likely to get a bunch of notifications all at once. That's okay and expected.
 
