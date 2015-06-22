@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.6.1)
+    json (1.8.3)
+    terminal-notifier (1.6.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  json
+  terminal-notifier
+
+BUNDLED WITH
+   1.10.4

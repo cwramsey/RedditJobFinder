@@ -7,7 +7,7 @@ This is built to work on a Mac because I work on a Mac.
 
 The `terminal-notifier` gem that's required only works with Mac notifications, so if you try and use this elsewhere, it won't load up correctly.
 
-Install these gems: `gem install terminal-notifier json awesome_print`
+Install gems: `bundler install`
 
 ##How To Use
 
